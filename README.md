@@ -4,7 +4,7 @@ package to loop json with subjson list ``pip install parse-subjson==0.1``
 
 ## how to use
 
-1. import function of the package ``from parse_subjson import call_parser```
+1. import function of the package ``from parse_subjson import call_parser``
 
 2. send data in format json
     ```
